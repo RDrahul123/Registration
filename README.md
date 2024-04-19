@@ -14,7 +14,7 @@ This C++ application is designed to facilitate the registration process for stud
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/student-registration.git
+    git clone https://github.com/Rdrahul123/student-registration.git
     ```
 
 2. **Navigate to the Project Directory:**
